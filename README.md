@@ -1,2 +1,2 @@
-### Shipment Analyis
+### Shipment Analysis
 This repository showcases a comprehensive data analyis on the AmazingMartEU Geographical Sales data. The dataset can be found on [SuperDataScience](https://www.superdatascience.com/pages/powerbi) web page. My intial plan was to create an iteractive dashboard which can be found here [dashboard](https://sabuny.github.io/Shipment-Analysis/) but I also wanted to use python and do some analysis and visualisations. 
