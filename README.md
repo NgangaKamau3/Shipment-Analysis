@@ -5,8 +5,11 @@ This project is aimed at understanding the different aspects of shipping such as
 ### Analysis and Insights
 Key areas of analysis include:
 **Order Processing Times:** Identify trends in order processing durations.
+
 **Sales and Profit:** Identify different areas of customer segments that generate income.
+
 **Shipping Delays:** Examine reasons for shipment delays and patterns.
+
 **Customer Segmentation:** Analyze customer data for segmentation based on location, product preferences, etc.
 **Geographical Analysis:** Assess shipping metrics across different locations.
 ### Results
