@@ -11,6 +11,7 @@ Key areas of analysis include:
 **Shipping Delays:** Examine reasons for shipment delays and patterns.
 
 **Customer Segmentation:** Analyze customer data for segmentation based on location, product preferences, etc.
+
 **Geographical Analysis:** Assess shipping metrics across different locations.
 ### Results
 * The analysis provided insights and highlighted the importance of premium products for revenue, despite lower order volumes compared to more frequently ordered office supplies suggesting consumer-driven demand, technology product popularity and regional performance differences are critical factors in this shipment business.
